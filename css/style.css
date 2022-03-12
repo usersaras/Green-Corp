@@ -139,4 +139,20 @@ body #portfolio img {
   -o-object-fit: cover;
      object-fit: cover;
 }
+
+body .carousel {
+  height: 60vh;
+  overflow: hidden;
+  background: green;
+}
+
+body .carousel img {
+  height: 60vh;
+  -o-object-fit: cover;
+     object-fit: cover;
+}
+
+body .carousel-item {
+  height: 10%;
+}
 /*# sourceMappingURL=style.css.map */
